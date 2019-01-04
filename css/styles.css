@@ -1,0 +1,32 @@
+/* CSS Document */
+body         {background-color:#BB5E00;
+             background-repeat:repeat;
+			 font-family:Arial, Helvetica, sans-serif;}
+			 
+#socialmedia p {color:#9B3200; size:inherit; transform-style:preserve-3d			 
+			
+			 ; font-style:italic;}
+
+#wrapper     {width:900px; margin:10px auto;
+             background-color:#FFF; padding:0 40px;}
+
+#top         {   }
+
+#logo        {  float:left;  margin:50px 0:  }
+
+#socialmedia { float:right; margin:50px 0:}
+#socialmedia ul li{ display:inline; list-style:none;    }
+#socialmedia p     {text-align:right}
+#topnav       {clear:both;}
+#topnav ul     {padding:0;margin 0; padding:15px 0;
+               border-top:1px #651B2F dotted;}
+#topnav a:link	      {font-weight:bold; text-decoration:none; text-transform:uppercase; color:#090;}
+#topnav a:visited      {font-weight:bold; text-decoration:none; text-transform:uppercase; color:#090;}
+#topnav a:active      {font-weight:bold; text-decoration:none; text-transform:uppercase; color:#090;}
+#topnav a:hover       {font-weight:bold; text-decoration:none; text-transform:uppercase; color:#F00;}
+#topnav a:focus       {font-weight:bold; text-decoration:none; text-transform:uppercase; color:#F00;}
+		     
+#topnav ul li       { font-size:9px;    display:inline; list-style:none; margin:0 20px 0 0;}
+#content p          {font-size:12px; line-height:140%;}
+#footer                { border-top:1px #651B2F dotted; padding:15px 0; margin:0 15px 0 0;}
+
